@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights; Power+BI Developer alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights; Power+BI+Developer" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 I'm a data analyst with an impressive background of turning complex data into meaningful insights that drive better decision-making. 
 My areas of focus are visualization and statistical analysis using tools such as Excel, PowerBI, MySQL, and Python. Also, and creating models that help businesses plan for the future.
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy learning new things and surfing internet.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/Fisayo01)
@@ -28,7 +28,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [Data Science Mastery which include Excel, Python and Tableau]
+- Data Science Mastery which include Excel, Python and Tableau
 
 ## 🛠️ Technical Skillset
 
